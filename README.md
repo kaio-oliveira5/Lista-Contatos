@@ -1,16 +1,70 @@
-# React + Vite
+📇 Agenda de Contatos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação web desenvolvida com React, Redux Toolkit e Styled Components para gerenciamento de uma lista de contatos.
 
-Currently, two official plugins are available:
+O projeto permite adicionar, editar e remover contatos de forma simples e rápida.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Tecnologias utilizadas
 
-## React Compiler
+React
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Redux Toolkit
 
-## Expanding the ESLint configuration
+Styled Components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Vite
+
+JavaScript
+
+📋 Funcionalidades
+
+➕ Adicionar contatos
+
+✏️ Editar contatos
+
+❌ Remover contatos
+
+📦 Gerenciamento de estado global com Redux
+
+🎨 Estilização com Styled Components
+
+Cada contato possui:
+
+Nome completo
+
+Email
+
+Telefone
+
+📸 Interface
+
+A aplicação possui uma interface simples e intuitiva para gerenciamento dos contatos.
+
+▶️ Como executar o projeto
+
+Clone o repositório:
+
+git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+
+Entre na pasta do projeto:
+
+cd lista-contatos
+
+Instale as dependências:
+
+npm install
+
+Execute o projeto:
+
+npm run dev
+
+A aplicação ficará disponível em:
+
+http://localhost:5173
+🌐 Deploy
+
+O projeto pode ser publicado facilmente utilizando Vercel ou Netlify.
+
+👨‍💻 Autor
+
+Desenvolvido por Kaio Oliveira.
