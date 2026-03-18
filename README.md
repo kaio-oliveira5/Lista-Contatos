@@ -1,54 +1,58 @@
-📇 Agenda de Contatos
+# 📇 Agenda de Contatos
 
-Aplicação web desenvolvida com React, Redux Toolkit e Styled Components para gerenciamento de uma lista de contatos.
+Aplicação web para gerenciamento de contatos, desenvolvida com foco em organização de dados, usabilidade e boas práticas no desenvolvimento front-end.
 
-O projeto permite adicionar, editar e remover contatos de forma simples e rápida.
+Permite adicionar, editar e remover contatos de forma dinâmica, utilizando gerenciamento de estado global.
 
-🚀 Tecnologias utilizadas
+---
 
-React
+## 🔗 Acesse o projeto
 
-Redux Toolkit
+👉 https://lista-contatos-brown.vercel.app/
 
-Styled Components
+---
 
-Vite
+## 🚀 Tecnologias utilizadas
 
-JavaScript
+- React  
+- Redux Toolkit  
+- Styled Components  
+- Vite  
+- JavaScript  
 
-📋 Funcionalidades
+---
 
-➕ Adicionar contatos
+## 📋 Funcionalidades
 
-✏️ Editar contatos
+- Adicionar contatos  
+- Editar contatos  
+- Remover contatos  
+- Gerenciamento de estado global com Redux  
+- Interface responsiva e intuitiva  
 
-❌ Remover contatos
+Cada contato contém:
+- Nome completo  
+- Email  
+- Telefone  
 
-📦 Gerenciamento de estado global com Redux
+---
 
-🎨 Estilização com Styled Components
+## 📸 Interface
 
-Cada contato possui:
+Interface simples, organizada e focada na experiência do usuário.
 
-Nome completo
+---
 
-Email
-
-Telefone
-
-📸 Interface
-
-A aplicação possui uma interface simples e intuitiva para gerenciamento dos contatos.
-
-▶️ Como executar o projeto
+## ▶️ Como executar o projeto
 
 Clone o repositório:
 
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+```bash
+git clone https://github.com/kaio-oliveira5/Lista-Contatos
 
-Entre na pasta do projeto:
+Acesse a pasta:
 
-cd lista-contatos
+cd Lista-Contatos
 
 Instale as dependências:
 
@@ -57,14 +61,10 @@ npm install
 Execute o projeto:
 
 npm run dev
-
-A aplicação ficará disponível em:
-
-http://localhost:5173
 🌐 Deploy
 
-O projeto pode ser publicado facilmente utilizando Vercel ou Netlify.
+Projeto publicado em ambiente real utilizando Vercel.
 
 👨‍💻 Autor
 
-Desenvolvido por Kaio Oliveira.
+Desenvolvido por Kaio Oliveira
