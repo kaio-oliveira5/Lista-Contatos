@@ -1,8 +1,8 @@
 # 📇 Agenda de Contatos
 
-Aplicação web para gerenciamento de contatos, desenvolvida com foco em organização de dados, usabilidade e boas práticas no desenvolvimento front-end.
+Aplicação web para gerenciamento de contatos, com foco em organização de dados, performance e experiência do usuário.
 
-Permite adicionar, editar e remover contatos de forma dinâmica, utilizando gerenciamento de estado global.
+Permite adicionar, editar e remover contatos de forma dinâmica, utilizando gerenciamento de estado global com Redux Toolkit.
 
 ---
 
@@ -37,9 +37,9 @@ Cada contato contém:
 
 ---
 
-## 📸 Interface
+## 📸 Preview
 
-Interface simples, organizada e focada na experiência do usuário.
+![preview](./preview.png)
 
 ---
 
